@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <title>TODO supply a title</title>
+    <meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+    <script>
+        var text = "";
+        function cambio_total(texto)
+        {
+            texto = texto.bold();
+            texto = texto.fontcolor("red");
+            texto = texto.fontsize(7);
+            texto = texto.toUpperCase();
+            return(texto);
+        }
+        function separar(texto)
+        {
+            var corte = " ";
+            var tamano= 0;
+            tamano = texto.length;
+            
+            for (var i=0; i < tamano; i++)
+                {
+                    if(texto.charAt(i)==" ")
+                        {
+                            corte = texto.substring(0, i);
+                            break;
+                        }
+                }
+            document.write("<p align='center'>Te LLamas " + cambio_total(corte));
+            document.write(", bienvenido.</p>");
+        }
+    </script>
+</head>
+<body>
+    <script>
+        text=prompt("Introduzca su nombre y apellidos", "Pepito Grillo");
+        separar(text);
+    </script>
+</body>
+</html>

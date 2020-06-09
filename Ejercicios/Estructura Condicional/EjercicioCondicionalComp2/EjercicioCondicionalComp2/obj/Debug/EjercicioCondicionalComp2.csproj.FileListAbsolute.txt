@@ -1,0 +1,6 @@
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\obj\Debug\EjercicioCondicional2.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\bin\Debug\EjercicioCondicional2.exe.config
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\bin\Debug\EjercicioCondicional2.exe
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\bin\Debug\EjercicioCondicional2.pdb
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\obj\Debug\EjercicioCondicional2.exe
+D:\Descargas\Programacion\Ejercicios\EjercicioCondicional2\EjercicioCondicional2\obj\Debug\EjercicioCondicional2.pdb

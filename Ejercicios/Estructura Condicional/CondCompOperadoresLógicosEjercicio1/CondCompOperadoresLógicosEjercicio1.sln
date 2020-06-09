@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondCompOperadoresLógicosEjercicio1", "CondCompOperadoresLógicosEjercicio1\CondCompOperadoresLógicosEjercicio1.csproj", "{52DFF8EA-4EAF-4927-BE68-1ABC00D997EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DFF8EA-4EAF-4927-BE68-1ABC00D997EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DFF8EA-4EAF-4927-BE68-1ABC00D997EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DFF8EA-4EAF-4927-BE68-1ABC00D997EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DFF8EA-4EAF-4927-BE68-1ABC00D997EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5508CDC-0A71-4D1C-B168-07626E51348C}
+	EndGlobalSection
+EndGlobal

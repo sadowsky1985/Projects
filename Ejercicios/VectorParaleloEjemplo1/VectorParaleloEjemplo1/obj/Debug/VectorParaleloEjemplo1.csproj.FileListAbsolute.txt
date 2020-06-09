@@ -1,0 +1,7 @@
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\bin\Debug\VectorParaleloEjemplo1.exe.config
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\bin\Debug\VectorParaleloEjemplo1.exe
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\bin\Debug\VectorParaleloEjemplo1.pdb
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\obj\Debug\VectorParaleloEjemplo1.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\obj\Debug\VectorParaleloEjemplo1.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\obj\Debug\VectorParaleloEjemplo1.exe
+D:\Descargas\Programacion\Ejercicios\VectorParaleloEjemplo1\VectorParaleloEjemplo1\obj\Debug\VectorParaleloEjemplo1.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbCalcMVCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TabloResultadoCalcMVC">
+    <Key>
+      <PropertyRef Name="ID_RESULTADO" />
+    </Key>
+    <Property Name="ID_RESULTADO" Type="Int32" Nullable="false" />
+    <Property Name="RESULTADO" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DbCalcMVCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TabloResultadoCalcMVC" EntityType="Self.TabloResultadoCalcMVC" />
+  </EntityContainer>
+</Schema>

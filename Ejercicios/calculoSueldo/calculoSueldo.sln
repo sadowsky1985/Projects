@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculoSueldo", "calculoSueldo\calculoSueldo.csproj", "{543FB504-9D12-4649-A00A-34AD484575DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543FB504-9D12-4649-A00A-34AD484575DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543FB504-9D12-4649-A00A-34AD484575DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543FB504-9D12-4649-A00A-34AD484575DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543FB504-9D12-4649-A00A-34AD484575DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF445EC2-8CCA-48C2-99FB-7B8EE8122700}
+	EndGlobalSection
+EndGlobal

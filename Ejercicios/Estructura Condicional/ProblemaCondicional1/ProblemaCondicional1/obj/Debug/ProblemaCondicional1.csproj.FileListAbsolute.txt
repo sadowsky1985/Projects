@@ -1,0 +1,7 @@
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\bin\Debug\ProblemaCondicional1.exe.config
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\bin\Debug\ProblemaCondicional1.exe
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\bin\Debug\ProblemaCondicional1.pdb
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\obj\Debug\ProblemaCondicional1.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\obj\Debug\ProblemaCondicional1.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\obj\Debug\ProblemaCondicional1.exe
+D:\Descargas\Programacion\Ejercicios\ProblemaCondicional1\ProblemaCondicional1\obj\Debug\ProblemaCondicional1.pdb

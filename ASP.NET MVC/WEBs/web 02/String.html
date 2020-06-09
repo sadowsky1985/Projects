@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>TODO supply a title</title>
+    <meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+</head>
+<body>
+    <h3 align="center">MODIFICAR LA APARIENCIA DE UN TEXTO</h3>
+    <script LANGUAGE="JavaScript">
+        var textURL = 'http://www.cepi-base.int';
+        var text = "Texto de Prueba";
+
+        document.write("El texto que vamos a modificar es " + text + " y tiene ");
+        document.write(text.length + " caracteres.<br><br>");
+        document.write("Lo ponemos en negrita -> " + text.bold() + "<br>");
+        document.write("Le cambiamos el color -> " + text.fontcolor('cyan') + "<br>");
+
+        document.write("Lo cambiamos a fuente fija -> " + text.fixed() + "<br>");
+        document.write("Lo ponemos en cursiva -> " + text.italics() + "<br>");
+
+        document.write("Lo pasamos a formato superíndice -> " + text.sup() + "<br>");
+        document.write("Y ahora a formato subíndice -> " + text.sub() + "<br><br>");
+        document.write("Le decimos ahora que el tamaño de la fuente es de 6 <br>");
+        document.write(text.fontsize(6) + "<br>");
+        document.write("Ahora ponemos todo el texto en mayusculas -> ");
+        document.write(text.toUpperCase() + "<br>");
+        document.write("y ahora todo en minusculas -> " + text.toLowerCase() + "<br>");
+
+        document.write("Creamos ahora un enlace para ir a otra página: ");
+        document.write(text.link(textURL));
+    </script>
+</body>
+</html>

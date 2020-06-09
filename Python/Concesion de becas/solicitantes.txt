@@ -1,0 +1,13 @@
+
+0001      Moreno Ruiz, Pablo                      N
+0002      Perez Acha, Marta                       N
+0003      Reina Mata, Pepe                        N
+0004      Romera Santos, Juan                     N
+0005      Marmol Piedras, Pedro                   S
+0006      Gomez Urrutia, Roman                    S
+0007      Rubio Santa, Maria                      S
+0008      Roma Martinez, Jose                     S
+0009      Montes Altos, Pedro                     S
+0010      Calleja Ramirez, Jesus                  S
+0011      Bermudez Sopelana, Jacinto              N
+0012      Pascual Garzon, Maria                   S

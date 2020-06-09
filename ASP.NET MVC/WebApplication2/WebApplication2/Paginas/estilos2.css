@@ -1,0 +1,44 @@
+﻿nav {
+    width: 100%;
+    text-align: center;
+    font-family: 'Prosto One', cursive;
+}
+
+nav a {
+    padding-right: 35px;
+    text-decoration: none !important;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: darkgoldenrod;
+}
+
+.pie {
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    padding-top: 8px;
+}
+
+.milanuncios {
+    padding: 30px;
+}
+
+.anuncio-mini {
+    padding: 30px;
+}
+
+.formulario {
+    border: 1px solid #BFBFBF;
+    font-size: 22px;
+    padding: 25px;
+}
+.formulario:hover {
+        box-shadow: 20px 20px 50px 10px black;
+}

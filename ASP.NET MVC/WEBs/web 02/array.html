@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=width-device">
+    <title>Array Practica</title>
+    <script>
+        var nombre = new Array(5);
+        var email = new Array(5);
+        function rellenar(nombre, email)
+        {
+            nombre[0]="Ana";
+            nombre[1]="Angel";
+            nombre[2]="Carlos";
+            nombre[3]="Tomás";
+            nombre[4]="Sofía";
+            
+            email[0]="anaguias@preboste.com";
+            email[1]="medten@puple.com";
+            email[2]="asiafron@sonido.es";
+            email[3]="manda2tex@onfost.com";
+            email[4]="delaguardia@gasgas.es";
+        }
+        function mostrar(nombre, email)
+        {
+            for(var i=0; i < nombre.length; i++)
+            {
+                document.write("Nombre: <b>" + nombre[i] + "</b> y su dirección");
+                document.write(" de email es: <b>"+ email[i] +"</b><br>");
+            }
+        }
+    </script>
+</head>
+<body>
+    <script>
+       
+       rellenar(nombre,email);
+       mostrar(nombre,email);
+        
+    </script>
+</body>
+</html>

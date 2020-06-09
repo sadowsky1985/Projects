@@ -1,0 +1,7 @@
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\bin\Debug\VectorEjemplo3.exe.config
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\bin\Debug\VectorEjemplo3.exe
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\bin\Debug\VectorEjemplo3.pdb
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\obj\Debug\VectorEjemplo3.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\obj\Debug\VectorEjemplo3.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\obj\Debug\VectorEjemplo3.exe
+D:\Descargas\Programacion\Ejercicios\VectorEjemplo3\VectorEjemplo3\obj\Debug\VectorEjemplo3.pdb

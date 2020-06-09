@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbCalcMVCModelStoreContainer" CdmEntityContainer="DbCalcMVCEntities">
+    <EntitySetMapping Name="TabloResultadoCalcMVC">
+      <EntityTypeMapping TypeName="DbCalcMVCModel.TabloResultadoCalcMVC">
+        <MappingFragment StoreEntitySet="TabloResultadoCalcMVC">
+          <ScalarProperty Name="ID_RESULTADO" ColumnName="ID_RESULTADO" />
+          <ScalarProperty Name="RESULTADO" ColumnName="RESULTADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

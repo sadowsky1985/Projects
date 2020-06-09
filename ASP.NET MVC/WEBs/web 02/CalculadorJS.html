@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CalculadorJS</title>
+    <style>
+        h1, h3{
+            display: inline-block;
+            
+        }
+        h1{
+            font-size: 75px;
+            color:blue; 
+            text-align: center;
+            text-shadow: 4px -5px 5px gray;
+            
+        }
+        h3{
+            font-size: 50px;
+            
+        }
+        h5{
+            font-size: 30px;
+            text-decoration: underline;
+        }
+        body{
+             background-color:lightgrey;
+            font-size: 20px;
+        }
+    </style>
+    <script>
+         function Calcular()
+            {
+                    for (i = 1; i < 11; i++)
+                    { 
+                        document.write("<h5>La tabla del " + i + ":</h5>"); 
+                        for (j=1; j < 11; j++) 
+                        { 
+                           document.write(i + " x " + j + " = <b>");
+                           document.write(i * j);
+                           document.write("</b><br>");
+                        } 
+                    }
+             }
+    </script>
+</head>
+<body>
+<div align="center">
+     <h3>CALCULADOR</h3>
+     <h1>JavaScript</h1>
+</div>
+
+  <script>
+          Calcular();
+  </script>
+    
+</body>
+</html>

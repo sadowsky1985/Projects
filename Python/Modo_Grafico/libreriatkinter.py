@@ -1,0 +1,28 @@
+from tkinter import *
+from tkinter import ttk
+def calcula():
+    resultado.set(varnombre.get()+" "+varapellidos.get())
+
+ventana = Tk()
+ventana.title("mi primera ventana en Python")
+ventana.geometry("350x150+400+200")
+ventana.resizable(False, False)
+ttk.Style().configure("TLabel", foreground="green")
+ttk.Style().configure("TButton", foregorund="red")
+ttk.Style().configure("Resul.TLabel", background="pink", foreground="brown", relief="ridge")
+etiqueta1 = ttk.Label(ventana, text="nombre: ", padding=(30, 10))
+etiqueta1.grid(row=0, column=0)
+etiqueta2 = ttk.Label(ventana, text="Apellidos: ", padding=(30, 10))
+etiqueta2.grid(row=1, column=0)
+varnombre = StringVar()
+cuadro1 = ttk.Entry(ventana, textvariable=varnombre, width=20)
+cuadro1.grid(row=0, column=1)
+varapellidos = StringVar()
+cuadro2 = ttk.Entry(ventana, textvariable=varapellidos, width=20)
+cuadro2.grid(row=1, column=1)
+boton1 = ttk.Button(ventana, text="Aceptar", command=calcula)
+boton1.grid(row=2, column=0)
+resultado = StringVar()
+etiqueta3 = ttk.Label(ventana, textvariable=resultado, style="Resul.TLabel")
+etiqueta3.grid(row=2, column=1)
+ventana.mainloop()

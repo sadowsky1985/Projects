@@ -1,0 +1,7 @@
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\bin\Debug\VectorProblema1.exe.config
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\bin\Debug\VectorProblema1.exe
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\bin\Debug\VectorProblema1.pdb
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\obj\Debug\VectorProblema1.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\obj\Debug\VectorProblema1.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\obj\Debug\VectorProblema1.exe
+D:\Descargas\Programacion\Ejercicios\VectorProblema1\VectorProblema1\obj\Debug\VectorProblema1.pdb

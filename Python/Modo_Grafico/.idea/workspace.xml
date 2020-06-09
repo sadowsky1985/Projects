@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b64f4c79-af4e-41ef-925d-1520f79660bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V7IYKlauHzpgSeroiG03Sl4esp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Descargas\Programacion\Python\Proyects\Modo_Grafico\misventanas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Presupuesto_py">
+    <configuration name="Modulo_PyQT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modo_Grafico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulo_PyQT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Modulo_PyQT_Grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modo_Grafico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulo_PyQT_Grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Presupuesto_py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modo_Grafico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Presupuesto_py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Presupuesto_ui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modo_Grafico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Presupuesto_ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PruebaPack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modo_Grafico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PruebaPack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Presupuesto_py" />
+        <item itemvalue="Python.Presupuesto_ui" />
+        <item itemvalue="Python.Modulo_PyQT_Grid" />
+        <item itemvalue="Python.Modulo_PyQT" />
+        <item itemvalue="Python.PruebaPack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b64f4c79-af4e-41ef-925d-1520f79660bd" name="Default Changelist" comment="" />
+      <created>1576597752201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576597752201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom" timestamp="1576694388636">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1576694388636" />
+    <state width="1259" height="210" key="GridCell.Tab.0.center" timestamp="1576694388636">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1576694388636" />
+    <state width="1259" height="210" key="GridCell.Tab.0.left" timestamp="1576694388636">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1576694388636" />
+    <state width="1259" height="210" key="GridCell.Tab.0.right" timestamp="1576694388636">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1576694388636" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom" timestamp="1576694388637">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1576694388637" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center" timestamp="1576694388637">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1576694388637" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left" timestamp="1576694388637">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1576694388637" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right" timestamp="1576694388637">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1576694388637" />
+    <state x="337" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1576692855682">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1576692855682" />
+  </component>
+</project>

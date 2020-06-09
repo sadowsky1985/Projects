@@ -1,0 +1,6 @@
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\bin\Debug\EstructuraRepetitivaForEjercicio4.exe.config
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\bin\Debug\EstructuraRepetitivaForEjercicio4.exe
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\bin\Debug\EstructuraRepetitivaForEjercicio4.pdb
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\obj\Debug\EstructuraRepetitivaForEjercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\obj\Debug\EstructuraRepetitivaForEjercicio4.exe
+C:\Users\Pablo\source\repos\EstructuraRepetitivaForEjercicio4\EstructuraRepetitivaForEjercicio4\obj\Debug\EstructuraRepetitivaForEjercicio4.pdb

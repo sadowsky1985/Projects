@@ -1,0 +1,2 @@
+D:\Descargas\Programacion\Ejercicios\DeclaracionMetodosEjemplo2\DeclaracionMetodosEjemplo2\obj\Debug\DeclaracionMetodosEjemplo2.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\DeclaracionMetodosEjemplo2\DeclaracionMetodosEjemplo2\obj\Debug\DeclaracionMetodosEjemplo2.csproj.CoreCompileInputs.cache

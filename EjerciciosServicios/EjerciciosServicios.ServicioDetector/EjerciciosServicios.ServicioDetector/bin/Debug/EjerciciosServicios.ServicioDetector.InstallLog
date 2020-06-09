@@ -1,0 +1,37 @@
+﻿Instalando ensamblado 'D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.InstallLog
+   assemblypath = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe
+Instalando el servicio Detector...
+Creando el origen de EventLog Detector en el registro Application...
+Deshaciendo ensamblado 'D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.InstallLog
+   assemblypath = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe
+Restaurando el registro de eventos al estado anterior para el origen Detector.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.InstallLog
+   assemblypath = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe
+Instalando el servicio Detector...
+El servicio Detector se ha instalado correctamente.
+Creando el origen de EventLog Detector en el registro Application...
+Confirmando ensamblado 'D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.InstallLog
+   assemblypath = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe
+Desinstalando ensamblado 'D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.InstallLog
+   assemblypath = D:\Descargas\Programacion\VisualStudio\Projects\EjerciciosServicios\EjerciciosServicios.ServicioDetector\EjerciciosServicios.ServicioDetector\bin\Debug\EjerciciosServicios.ServicioDetector.exe
+Quitando el origen de EventLog Detector.
+Se está quitando el servicio Detector del sistema...
+El servicio Detector se ha quitado correctamente del sistema.

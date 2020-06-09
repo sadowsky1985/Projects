@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <title>TODO supply a title</title>
+    <meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+    <script>
+        var text = "";
+        function cambio_total(texto)
+        {
+            texto = texto.bold();
+            texto = texto.fontcolor("red");
+            texto = texto.fontsize(7);
+            texto = texto.toUpperCase();
+            return(texto);
+        }
+    </script>
+</head>
+<body>
+    <script>
+        text=prompt("Introduzca su nombre y apellidos", "Pepito Grillo");
+        valor = cambio_total(text);
+        document.write(valor);
+    </script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    width:1000px;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cuerpo{
+    float: inherit;
+    *margin-left: auto;
+    text-align: center;
+    
+}
+.logo{
+    
+}
+.navegador{
+    width: 500px;
+    display: inline;
+    font-size: 40px;
+    font-family: fantasy;
+    float: center;
+    *position: inherit;
+}
+.navegador a{
+    text-decoration: none;
+    padding-right: 33px;
+}
+.navegador a:hover{
+    color: darkcyan;
+}
+.formulario{
+    width: 500px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: darkcyan;
+    margin-left:25%;
+}
+#comentario{
+    padding: 0.2in;
+}
+#pie{
+    font-family: 'Tangerine', serif;
+    font-size: 28px;
+    text-shadow: 4px 4px 4px #aaa;
+    text-align: center;
+    margin-top: 50px;
+}

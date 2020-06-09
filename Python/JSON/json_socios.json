@@ -1,0 +1,28 @@
+{
+  "socios": [
+    {
+      "num socio": "0000",
+      "nombre": "Socio Primero",
+      "compras": [
+        {
+          "codigo": "0000",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "num socio": "0002",
+      "nombre": "Segundo socio",
+      "compras": [
+        {
+          "codigo": "0010",
+          "cantidad": "3"
+        },
+        {
+          "codigo": "0081",
+          "cantidad": "2"
+        }
+      ]
+    }
+  ]
+}

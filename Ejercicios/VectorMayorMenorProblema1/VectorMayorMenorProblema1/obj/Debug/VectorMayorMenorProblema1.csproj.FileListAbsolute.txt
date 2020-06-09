@@ -1,0 +1,7 @@
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\bin\Debug\VectorMayorMenorProblema1.exe.config
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\bin\Debug\VectorMayorMenorProblema1.exe
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\bin\Debug\VectorMayorMenorProblema1.pdb
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\obj\Debug\VectorMayorMenorProblema1.csprojAssemblyReference.cache
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\obj\Debug\VectorMayorMenorProblema1.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\obj\Debug\VectorMayorMenorProblema1.exe
+D:\Descargas\Programacion\Ejercicios\VectorMayorMenorProblema1\VectorMayorMenorProblema1\obj\Debug\VectorMayorMenorProblema1.pdb
