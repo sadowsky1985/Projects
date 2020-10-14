@@ -1,0 +1,113 @@
+body{
+    /* display: grid;
+    grid-template-columns: 1fr; */
+    background: #f3f3f3;
+    min-height: 100vh;
+}
+
+table {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: chartreuse;
+    padding: 0.5rem;
+    margin: auto;
+    width: 75%;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 3px 5px 5px grey;
+
+}
+table th{
+    
+    /* float: left; */
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: darkkhaki;
+    min-width: 25%;   
+    height: 2rem;
+}
+table td{
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: thistle;
+    height: 1rem;
+    width: 25%;
+}
+.delete{
+    
+}
+form{
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(55, 199, 199, 0.465);
+    margin: auto;
+    padding: 0.5rem;
+    box-shadow: 1px 3px 5px 5px grey;
+}
+
+form label{
+    text-align: center;
+}
+
+form input{
+    width: 80%;
+
+    /* margin-left: -10%; */
+    /* text-align: right;
+    align-items: center;
+    max-width: 100%; */
+    /* height: 0.75rem; */
+    /* float: right; */
+}
+
+/* form grid positioning */
+#lbl-name{
+    grid-column:1 / 2;
+    grid-row: 1 / 2;
+}
+#in-name{
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    
+}
+#lbl-age{
+    grid-column: 1 / 2;
+    grid-row-start: 2 /3;
+}
+#in-age{
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    width: 20%;
+}
+#lbl-email{
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+}
+#in-email{
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+}
+#lbl-city{
+    grid-column-start: 1 / 2;
+    grid-row-start: 4 / 5;
+}
+#in-city{
+    grid-column-start: 2 / 3;
+    grid-row-start: 4 / 5;
+}
+
+/* form button Add */
+#form-btn{
+    margin: auto;
+    width: 50%;
+    margin-top: 5px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}

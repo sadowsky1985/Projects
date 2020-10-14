@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/homeStyle.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/148a8d3c6d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <form action="">
+        <label for="" id="lbl-name">Name: </label>
+        <input type="text" placeholder="John Smith" name="name" id="in-name">
+        <label for="" id="lbl-age">Age: </label>
+        <input type="number" placeholder="33" name="age" id="in-age">
+        <label for="" id="lbl-email">Email: </label>
+        <input type="email" placeholder="user@mail.com" name="email" id="in-email">
+        <label for="" id="lbl-city">City: </label>
+        <input type="text" placeholder="New York" name="city" id="in-city">
+        <button type="submit" id="form-btn">Add</button>
+    </form>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Mail</th>
+            <th>City</th>            
+        </tr>
+        <tr>
+            <td>Pepe</td>
+            <td>22</td>
+            <td>pepe@mail.com</td>
+            <td>Detroit</td>
+            <td><span class="delete"><i class="fas fa-trash-alt"></i></span></td>
+
+        </tr>
+    </table>
+
+    <!-- javascript -->
+    <script src="./assets/js/homeScript.js"></script>
+</body>
+</html>

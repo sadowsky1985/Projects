@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+:root{
+    --font1: 'Gloria Hallelujah', cursive;
+    --font2: 'Acme', sans-serif;
+    --fontColor1: rgb(0, 175, 0);
+    --fontColor2: rgb(0, 44, 0);
+}
+nav{
+    background: chartreuse;
+    width: 100%;   
+
+}
+nav li {
+    display: inline;
+}
+.dropdown {
+    width: 60px;
+    background: darkgrey;
+    display: block;
+    max-height: 55px;
+    
+}
