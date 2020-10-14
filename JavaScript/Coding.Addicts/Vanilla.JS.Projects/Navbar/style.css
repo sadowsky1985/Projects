@@ -1,0 +1,78 @@
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', cursive;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background: white;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.nav-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.nav-toggle {
+    font-size: 1.5rem;
+    background: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.nav-toggle:hover {
+    transform: rotate(90deg);
+}
+
+.logo {
+    height: 40px;
+}
+
+.links a {
+    font-size: 1rem;
+    height: auto; /* important to add! */
+    display: flex; /* important to add! */
+    text-transform: capitalize;
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s linear;
+}
+
+.links a:hover {
+    padding-left: 1.5rem;
+}
+.social-icons {
+    display: none;
+}
+
+/* HIDE LINKS */
+.links {
+    height: 0;
+    overflow: hidden;
+    transition: all 0.3s linear;
+  }
+
+/* TOGGLE CLASS */
+.show-links {
+height: 10rem;
+}
